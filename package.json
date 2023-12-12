@@ -1,0 +1,22 @@
+{
+  "name": "rest-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyanKhan235/REST-.git"
+  },
+  "author": "Ayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyanKhan235/REST-/issues"
+  },
+  "homepage": "https://github.com/AyanKhan235/REST-#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
